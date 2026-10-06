@@ -1,0 +1,1790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Fisresults>
+    <Raceheader Sector="AL" Gender="L">
+        <Season>2024</Season>
+        <Codex />
+        <NAT_code>U0393</NAT_code>
+        <Nation>USA</Nation>
+        <Discipline>GS</Discipline>
+        <Category>NAT</Category>
+        <Type>Official</Type>
+        <Eventname>PA Cup 4 Womens GS</Eventname>
+        <Place>Blue Mountain Resort</Place>
+        <Racedate>
+            <Day>3</Day>
+            <Month>2</Month>
+            <Year>2024</Year>
+        </Racedate>
+        <TD Function="Delegate">
+            <Tdnumber>E4805552</Tdnumber>
+            <Tdlastname>Dunstan</Tdlastname>
+            <Tdfirstname>William</Tdfirstname>
+            <Tdnation>E</Tdnation>
+            <NAT_tdnum>E4805552</NAT_tdnum>
+        </TD>
+        <Tempunit>C</Tempunit>
+        <Longunit>m</Longunit>
+        <Speedunit>kmh</Speedunit>
+    </Raceheader>
+    <AL_race>
+        <Jury Function="ChiefRace">
+            <Jurylastname>Lipton</Jurylastname>
+            <Juryfirstname>Robert</Juryfirstname>
+            <Jurynation />
+            <NAT_num>E5413679</NAT_num>
+        </Jury>
+        <Jury Function="ChiefCourse">
+            <Jurylastname>Ellis</Jurylastname>
+            <Juryfirstname>Steve</Juryfirstname>
+            <Jurynation />
+            <NAT_num>E6523985</NAT_num>
+        </Jury>
+        <Jury Function="Startreferee">
+            <Jurylastname>Ord</Jurylastname>
+            <Juryfirstname>Daniel</Juryfirstname>
+            <Jurynation />
+            <NAT_num>E4984969</NAT_num>
+        </Jury>
+        <Jury Function="Finishreferee">
+            <Jurylastname>Anderson</Jurylastname>
+            <Juryfirstname>John</Juryfirstname>
+            <Jurynation />
+            <NAT_num>E4679643</NAT_num>
+        </Jury>
+        <Jury Function="Datamanager">
+            <Jurylastname>Stockmal</Jurylastname>
+            <Juryfirstname>Casey</Juryfirstname>
+            <Jurynation />
+            <NAT_num>E6378376</NAT_num>
+        </Jury>
+        <Jury Function="Raceadmin">
+            <Jurylastname>Stockmal</Jurylastname>
+            <Juryfirstname>Casey</Juryfirstname>
+            <Jurynation />
+            <NAT_num>E6378376</NAT_num>
+        </Jury>
+        <Jury Function="ChiefTiming">
+            <Jurylastname>Lancsak</Jurylastname>
+            <Juryfirstname>Frank</Juryfirstname>
+            <Jurynation />
+            <NAT_num>E6825593</NAT_num>
+        </Jury>
+        <Course Run="1">
+            <Homologation>13278/11/19</Homologation>
+            <Starttime>9:33am</Starttime>
+            <Gates>36</Gates>
+            <Turninggates>32</Turninggates>
+            <Startelev>450</Startelev>
+            <Finishelev>190</Finishelev>
+            <Length>900</Length>
+            <Coursesetter>
+                <NAT_num>E4927794</NAT_num>
+                <Lastname>Zavilla</Lastname>
+                <Firstname>Kara</Firstname>
+                <Nation>E</Nation>
+            </Coursesetter>
+            <Forerunner Order="1">
+                <NAT_num>E7187685</NAT_num>
+                <Lastname>Hekiert</Lastname>
+                <Firstname>Natalia</Firstname>
+                <Nation>E</Nation>
+            </Forerunner>
+            <Forerunner Order="2">
+                <NAT_num>E6840506</NAT_num>
+                <Lastname>Bottcher</Lastname>
+                <Firstname>Benjamin</Firstname>
+                <Nation>E</Nation>
+            </Forerunner>
+        </Course>
+        <Course Run="2">
+            <Homologation>13278/11/19</Homologation>
+            <Starttime>1:17pm</Starttime>
+            <Gates>38</Gates>
+            <Turninggates>36</Turninggates>
+            <Startelev>450</Startelev>
+            <Finishelev>190</Finishelev>
+            <Length>900</Length>
+            <Coursesetter>
+                <NAT_num>E4473518</NAT_num>
+                <Lastname>Brescancine</Lastname>
+                <Firstname>Barry</Firstname>
+                <Nation>E</Nation>
+            </Coursesetter>
+            <Forerunner Order="1">
+                <NAT_num>E7187685</NAT_num>
+                <Lastname>Hekiert</Lastname>
+                <Firstname>Natalia</Firstname>
+                <Nation>E</Nation>
+            </Forerunner>
+            <Forerunner Order="2">
+                <NAT_num>E6840506</NAT_num>
+                <Lastname>Bottcher</Lastname>
+                <Firstname>Benjamin</Firstname>
+                <Nation>E</Nation>
+            </Forerunner>
+        </Course>
+        <AL_raceinfo>
+            <Snow>Packed Powder</Snow>
+            <Weather>Sunny</Weather>
+            <Temperatureatstart>32</Temperatureatstart>
+            <Temperatureatfinish>44</Temperatureatfinish>
+            <Timingby>Darkside Timing</Timingby>
+            <Dataprocessingby>VOLA SKIALP PRO 12.1.06 www.vola.fr</Dataprocessingby>
+            <Softwarecompany>VOLA</Softwarecompany>
+            <Softwarename>SKIALP PRO</Softwarename>
+            <Version>12.1.06</Version>
+            <Usedfislist>0</Usedfislist>
+            <NAT_list>16</NAT_list>
+            <Usednatlist>1624</Usednatlist>
+            <Appliedpenalty>216.51</Appliedpenalty>
+            <Calculatedpenalty>216.51</Calculatedpenalty>
+            <NAT_appliedpenalty>216.51</NAT_appliedpenalty>
+            <NAT_calculatedpenalty>216.51</NAT_calculatedpenalty>
+            <Fvalue>1010</Fvalue>
+        </AL_raceinfo>
+        <AL_classified>
+            <AL_ranked Status="QLF">
+                <Rank>1</Rank>
+                <Order>2</Order>
+                <Bib>1</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Cook</Lastname>
+                    <Firstname>Johanna</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2008</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6801737</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:02.33</Timerun1>
+                    <Timerun2>1:01.43</Timerun2>
+                    <Totaltime>2:03.76</Totaltime>
+                    <Racepoints>0.00</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>2</Rank>
+                <Order>1</Order>
+                <Bib>15</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Winfield</Lastname>
+                    <Firstname>Addison</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6500593</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:03.83</Timerun1>
+                    <Timerun2>1:00.82</Timerun2>
+                    <Totaltime>2:04.65</Totaltime>
+                    <Racepoints>7.26</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>3</Rank>
+                <Order>72</Order>
+                <Bib>3</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Correia</Lastname>
+                    <Firstname>Sienna</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6612741</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:04.86</Timerun1>
+                    <Timerun2>1:01.53</Timerun2>
+                    <Totaltime>2:06.39</Totaltime>
+                    <Racepoints>21.46</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>4</Rank>
+                <Order>5</Order>
+                <Bib>69</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Hodgkinson</Lastname>
+                    <Firstname>Jamie</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>WTSEF</Clubname>
+                    <NAT_code>E6577923</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:05.50</Timerun1>
+                    <Timerun2>1:01.30</Timerun2>
+                    <Totaltime>2:06.80</Totaltime>
+                    <Racepoints>24.81</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>5</Rank>
+                <Order>39</Order>
+                <Bib>19</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Johnson</Lastname>
+                    <Firstname>Maraid</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>DCWST</Clubname>
+                    <NAT_code>E6738590</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:03.60</Timerun1>
+                    <Timerun2>1:03.31</Timerun2>
+                    <Totaltime>2:06.91</Totaltime>
+                    <Racepoints>25.71</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>6</Rank>
+                <Order>6</Order>
+                <Bib>16</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Yadush</Lastname>
+                    <Firstname>Kate</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6559638</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:04.17</Timerun1>
+                    <Timerun2>1:03.30</Timerun2>
+                    <Totaltime>2:07.47</Totaltime>
+                    <Racepoints>30.28</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>7</Rank>
+                <Order>11</Order>
+                <Bib>62</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Contini</Lastname>
+                    <Firstname>Giuliana</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>WPRC</Clubname>
+                    <NAT_code>E6665633</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:04.85</Timerun1>
+                    <Timerun2>1:02.90</Timerun2>
+                    <Totaltime>2:07.75</Totaltime>
+                    <Racepoints>32.56</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>8</Rank>
+                <Order>22</Order>
+                <Bib>28</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Geist</Lastname>
+                    <Firstname>Devon</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2008</Yearofbirth>
+                    <Clubname>JFRT</Clubname>
+                    <NAT_code>E6795883</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:04.83</Timerun1>
+                    <Timerun2>1:04.06</Timerun2>
+                    <Totaltime>2:08.89</Totaltime>
+                    <Racepoints>41.87</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>9</Rank>
+                <Order>3</Order>
+                <Bib>57</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Pak</Lastname>
+                    <Firstname>Tara</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2008</Yearofbirth>
+                    <Clubname>SRRC</Clubname>
+                    <NAT_code>E6707816</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:05.86</Timerun1>
+                    <Timerun2>1:03.31</Timerun2>
+                    <Totaltime>2:09.17</Totaltime>
+                    <Racepoints>44.15</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>10</Rank>
+                <Order>14</Order>
+                <Bib>70</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Kennedy</Lastname>
+                    <Firstname>Blair</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2008</Yearofbirth>
+                    <Clubname>WTSEF</Clubname>
+                    <NAT_code>E6720328</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:05.10</Timerun1>
+                    <Timerun2>1:04.48</Timerun2>
+                    <Totaltime>2:09.58</Totaltime>
+                    <Racepoints>47.50</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>11</Rank>
+                <Order>7</Order>
+                <Bib>67</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>O&apos;Driscoll</Lastname>
+                    <Firstname>Maeve</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>WPRC</Clubname>
+                    <NAT_code>E6643765</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:05.38</Timerun1>
+                    <Timerun2>1:04.85</Timerun2>
+                    <Totaltime>2:10.23</Totaltime>
+                    <Racepoints>52.80</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>12</Rank>
+                <Order>12</Order>
+                <Bib>23</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Pucilowski</Lastname>
+                    <Firstname>Anna</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>EMSC</Clubname>
+                    <NAT_code>E6761258</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:07.11</Timerun1>
+                    <Timerun2>1:03.98</Timerun2>
+                    <Totaltime>2:11.09</Totaltime>
+                    <Racepoints>59.82</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>13</Rank>
+                <Order>15</Order>
+                <Bib>25</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Sutch</Lastname>
+                    <Firstname>Tinley</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>EMSC</Clubname>
+                    <NAT_code>E6641955</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:06.76</Timerun1>
+                    <Timerun2>1:04.94</Timerun2>
+                    <Totaltime>2:11.70</Totaltime>
+                    <Racepoints>64.80</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>14</Rank>
+                <Order>26</Order>
+                <Bib>33</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Tabish</Lastname>
+                    <Firstname>Ella</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>JFRT</Clubname>
+                    <NAT_code>E6802035</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:06.79</Timerun1>
+                    <Timerun2>1:05.23</Timerun2>
+                    <Totaltime>2:12.02</Totaltime>
+                    <Racepoints>67.41</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>15</Rank>
+                <Order>21</Order>
+                <Bib>60</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Stambaugh</Lastname>
+                    <Firstname>Audrey</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2008</Yearofbirth>
+                    <Clubname>SRRC</Clubname>
+                    <NAT_code>E6803841</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:06.51</Timerun1>
+                    <Timerun2>1:05.80</Timerun2>
+                    <Totaltime>2:12.31</Totaltime>
+                    <Racepoints>69.78</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>16</Rank>
+                <Order>10</Order>
+                <Bib>64</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Freudenberg</Lastname>
+                    <Firstname>Julia</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>WPRC</Clubname>
+                    <NAT_code>E6548956</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:08.00</Timerun1>
+                    <Timerun2>1:04.77</Timerun2>
+                    <Totaltime>2:12.77</Totaltime>
+                    <Racepoints>73.53</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>17</Rank>
+                <Order>31</Order>
+                <Bib>5</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Early</Lastname>
+                    <Firstname>Ada</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6798571</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:07.54</Timerun1>
+                    <Timerun2>1:05.99</Timerun2>
+                    <Totaltime>2:13.53</Totaltime>
+                    <Racepoints>79.73</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>18</Rank>
+                <Order>17</Order>
+                <Bib>9</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Meneely</Lastname>
+                    <Firstname>Lauren</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6761619</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:10.10</Timerun1>
+                    <Timerun2>1:03.47</Timerun2>
+                    <Totaltime>2:13.57</Totaltime>
+                    <Racepoints>80.06</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>19</Rank>
+                <Order>69</Order>
+                <Bib>21</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Barnes</Lastname>
+                    <Firstname>Paige</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>EMSC</Clubname>
+                    <NAT_code>E6663401</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:09.70</Timerun1>
+                    <Timerun2>1:03.98</Timerun2>
+                    <Totaltime>2:13.68</Totaltime>
+                    <Racepoints>80.96</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>20</Rank>
+                <Order>4</Order>
+                <Bib>74</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Ma</Lastname>
+                    <Firstname>Jennifer</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2008</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6890742</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:08.61</Timerun1>
+                    <Timerun2>1:05.10</Timerun2>
+                    <Totaltime>2:13.71</Totaltime>
+                    <Racepoints>81.20</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>21</Rank>
+                <Order>16</Order>
+                <Bib>12</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Persing</Lastname>
+                    <Firstname>Madalyn</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6741476</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:07.78</Timerun1>
+                    <Timerun2>1:06.07</Timerun2>
+                    <Totaltime>2:13.85</Totaltime>
+                    <Racepoints>82.34</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>22</Rank>
+                <Order>18</Order>
+                <Bib>66</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>McEnroe</Lastname>
+                    <Firstname>Kate</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>WPRC</Clubname>
+                    <NAT_code>E6506336</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:08.38</Timerun1>
+                    <Timerun2>1:05.60</Timerun2>
+                    <Totaltime>2:13.98</Totaltime>
+                    <Racepoints>83.40</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>23</Rank>
+                <Order>13</Order>
+                <Bib>34</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Watson</Lastname>
+                    <Firstname>Emma</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>JFRT</Clubname>
+                    <NAT_code>E6796097</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:08.40</Timerun1>
+                    <Timerun2>1:06.46</Timerun2>
+                    <Totaltime>2:14.86</Totaltime>
+                    <Racepoints>90.59</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>24</Rank>
+                <Order>45</Order>
+                <Bib>40</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Covington</Lastname>
+                    <Firstname>Brooke</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>Montage</Clubname>
+                    <NAT_code>E6768679</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:08.07</Timerun1>
+                    <Timerun2>1:07.14</Timerun2>
+                    <Totaltime>2:15.21</Totaltime>
+                    <Racepoints>93.44</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>25</Rank>
+                <Order>28</Order>
+                <Bib>59</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Sebelin</Lastname>
+                    <Firstname>Isabel</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>SRRC</Clubname>
+                    <NAT_code>E6945275</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:09.40</Timerun1>
+                    <Timerun2>1:06.56</Timerun2>
+                    <Totaltime>2:15.96</Totaltime>
+                    <Racepoints>99.56</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>26</Rank>
+                <Order>48</Order>
+                <Bib>6</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Lyons</Lastname>
+                    <Firstname>Keiley</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6950731</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:08.78</Timerun1>
+                    <Timerun2>1:07.59</Timerun2>
+                    <Totaltime>2:16.37</Totaltime>
+                    <Racepoints>102.91</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>27</Rank>
+                <Order>29</Order>
+                <Bib>56</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Naylor</Lastname>
+                    <Firstname>Carley</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>SRRC</Clubname>
+                    <NAT_code>E6987792</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:08.94</Timerun1>
+                    <Timerun2>1:07.52</Timerun2>
+                    <Totaltime>2:16.46</Totaltime>
+                    <Racepoints>103.64</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>28</Rank>
+                <Order>27</Order>
+                <Bib>46</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>O&apos;Connor</Lastname>
+                    <Firstname>Sophie</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>PASEF</Clubname>
+                    <NAT_code>E6627024</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:10.01</Timerun1>
+                    <Timerun2>1:06.77</Timerun2>
+                    <Totaltime>2:16.78</Totaltime>
+                    <Racepoints>106.26</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>29</Rank>
+                <Order>9</Order>
+                <Bib>26</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Tama</Lastname>
+                    <Firstname>Norah</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>EMSC</Clubname>
+                    <NAT_code>E6578001</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:10.72</Timerun1>
+                    <Timerun2>1:06.94</Timerun2>
+                    <Totaltime>2:17.66</Totaltime>
+                    <Racepoints>113.44</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>30</Rank>
+                <Order>30</Order>
+                <Bib>8</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Meneely</Lastname>
+                    <Firstname>Caroline</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2005</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6761605</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:08.93</Timerun1>
+                    <Timerun2>1:08.80</Timerun2>
+                    <Totaltime>2:17.73</Totaltime>
+                    <Racepoints>114.01</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>31</Rank>
+                <Order>20</Order>
+                <Bib>45</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Mayes</Lastname>
+                    <Firstname>Piper</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>PASEF</Clubname>
+                    <NAT_code>E6549871</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:11.95</Timerun1>
+                    <Timerun2>1:06.20</Timerun2>
+                    <Totaltime>2:18.15</Totaltime>
+                    <Racepoints>117.44</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>32</Rank>
+                <Order>25</Order>
+                <Bib>35</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Bui</Lastname>
+                    <Firstname>Sofia</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>LMRT</Clubname>
+                    <NAT_code>E6708254</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:10.70</Timerun1>
+                    <Timerun2>1:08.99</Timerun2>
+                    <Totaltime>2:19.69</Totaltime>
+                    <Racepoints>130.00</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>33</Rank>
+                <Order>46</Order>
+                <Bib>61</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Duncan</Lastname>
+                    <Firstname>Alaina</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>TMART</Clubname>
+                    <NAT_code>E6728990</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:12.00</Timerun1>
+                    <Timerun2>1:08.59</Timerun2>
+                    <Totaltime>2:20.59</Totaltime>
+                    <Racepoints>137.35</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>34</Rank>
+                <Order>51</Order>
+                <Bib>36</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Cooper</Lastname>
+                    <Firstname>Elle</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>LMRT</Clubname>
+                    <NAT_code>E6750886</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:12.25</Timerun1>
+                    <Timerun2>1:08.60</Timerun2>
+                    <Totaltime>2:20.85</Totaltime>
+                    <Racepoints>139.47</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>35</Rank>
+                <Order>36</Order>
+                <Bib>72</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Usheva</Lastname>
+                    <Firstname>Neya</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>WTSEF</Clubname>
+                    <NAT_code>E6620510</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:12.72</Timerun1>
+                    <Timerun2>1:08.17</Timerun2>
+                    <Totaltime>2:20.89</Totaltime>
+                    <Racepoints>139.80</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>36</Rank>
+                <Order>42</Order>
+                <Bib>14</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Sheckler</Lastname>
+                    <Firstname>Lauren</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6815353</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:11.73</Timerun1>
+                    <Timerun2>1:09.46</Timerun2>
+                    <Totaltime>2:21.19</Totaltime>
+                    <Racepoints>142.25</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>37</Rank>
+                <Order>47</Order>
+                <Bib>54</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Lynn</Lastname>
+                    <Firstname>Catherine</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>SRRC</Clubname>
+                    <NAT_code>E6671339</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:12.31</Timerun1>
+                    <Timerun2>1:09.61</Timerun2>
+                    <Totaltime>2:21.92</Totaltime>
+                    <Racepoints>148.20</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>38</Rank>
+                <Order>23</Order>
+                <Bib>65</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Greene</Lastname>
+                    <Firstname>Annie</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>WPRC</Clubname>
+                    <NAT_code>E6578596</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:14.10</Timerun1>
+                    <Timerun2>1:08.97</Timerun2>
+                    <Totaltime>2:23.07</Totaltime>
+                    <Racepoints>157.59</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>39</Rank>
+                <Order>32</Order>
+                <Bib>43</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Di Girolamo</Lastname>
+                    <Firstname>Beatrice</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>PASEF</Clubname>
+                    <NAT_code>E6902030</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:13.74</Timerun1>
+                    <Timerun2>1:09.52</Timerun2>
+                    <Totaltime>2:23.26</Totaltime>
+                    <Racepoints>159.14</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>40</Rank>
+                <Order>73</Order>
+                <Bib>31</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>O&apos;Brien</Lastname>
+                    <Firstname>Teagan</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2009</Yearofbirth>
+                    <Clubname>JFRT</Clubname>
+                    <NAT_code>E6914074</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:13.99</Timerun1>
+                    <Timerun2>1:10.47</Timerun2>
+                    <Totaltime>2:24.46</Totaltime>
+                    <Racepoints>168.93</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>41</Rank>
+                <Order>53</Order>
+                <Bib>37</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Dresner</Lastname>
+                    <Firstname>Eden</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>LMRT</Clubname>
+                    <NAT_code>E6946379</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:14.93</Timerun1>
+                    <Timerun2>1:11.15</Timerun2>
+                    <Totaltime>2:26.08</Totaltime>
+                    <Racepoints>182.15</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>42</Rank>
+                <Order>38</Order>
+                <Bib>49</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Visser</Lastname>
+                    <Firstname>Lynn</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>PASEF</Clubname>
+                    <NAT_code>X6626817</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:13.91</Timerun1>
+                    <Timerun2>1:13.16</Timerun2>
+                    <Totaltime>2:27.07</Totaltime>
+                    <Racepoints>190.23</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>43</Rank>
+                <Order>34</Order>
+                <Bib>52</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Hubbard</Lastname>
+                    <Firstname>Claire</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>SRRC</Clubname>
+                    <NAT_code>E6616618</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:14.24</Timerun1>
+                    <Timerun2>1:13.18</Timerun2>
+                    <Totaltime>2:27.42</Totaltime>
+                    <Racepoints>193.09</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>44</Rank>
+                <Order>60</Order>
+                <Bib>17</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Allen</Lastname>
+                    <Firstname>Kaitlin</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2005</Yearofbirth>
+                    <Clubname>DCWST</Clubname>
+                    <NAT_code>E6513209</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:15.92</Timerun1>
+                    <Timerun2>1:12.66</Timerun2>
+                    <Totaltime>2:28.58</Totaltime>
+                    <Racepoints>202.55</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>45</Rank>
+                <Order>56</Order>
+                <Bib>53</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Lauer</Lastname>
+                    <Firstname>Kennedy</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>SRRC</Clubname>
+                    <NAT_code>E6616574</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:17.03</Timerun1>
+                    <Timerun2>1:12.61</Timerun2>
+                    <Totaltime>2:29.64</Totaltime>
+                    <Racepoints>211.21</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>46</Rank>
+                <Order>43</Order>
+                <Bib>22</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Molen</Lastname>
+                    <Firstname>Sara</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>EMSC</Clubname>
+                    <NAT_code>E6614116</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:15.65</Timerun1>
+                    <Timerun2>1:14.36</Timerun2>
+                    <Totaltime>2:30.01</Totaltime>
+                    <Racepoints>214.23</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>47</Rank>
+                <Order>65</Order>
+                <Bib>20</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Mullin</Lastname>
+                    <Firstname>Abigail</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>DCWST</Clubname>
+                    <NAT_code>E7115202</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:15.78</Timerun1>
+                    <Timerun2>1:15.92</Timerun2>
+                    <Totaltime>2:31.70</Totaltime>
+                    <Racepoints>228.02</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>48</Rank>
+                <Order>54</Order>
+                <Bib>44</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Jacobsen</Lastname>
+                    <Firstname>Avery</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2005</Yearofbirth>
+                    <Clubname>PASEF</Clubname>
+                    <NAT_code>E6734712</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:18.46</Timerun1>
+                    <Timerun2>1:13.31</Timerun2>
+                    <Totaltime>2:31.77</Totaltime>
+                    <Racepoints>228.59</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>49</Rank>
+                <Order>62</Order>
+                <Bib>71</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>McDaniel</Lastname>
+                    <Firstname>Delia</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>WTSEF</Clubname>
+                    <NAT_code>E6899008</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:17.08</Timerun1>
+                    <Timerun2>1:14.90</Timerun2>
+                    <Totaltime>2:31.98</Totaltime>
+                    <Racepoints>230.30</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>50</Rank>
+                <Order>33</Order>
+                <Bib>29</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Incorvaia</Lastname>
+                    <Firstname>Rosie</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>JFRT</Clubname>
+                    <NAT_code>E6617318</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:18.10</Timerun1>
+                    <Timerun2>1:14.79</Timerun2>
+                    <Totaltime>2:32.89</Totaltime>
+                    <Racepoints>237.73</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>51</Rank>
+                <Order>52</Order>
+                <Bib>27</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Connor</Lastname>
+                    <Firstname>Natalia</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>HVRC</Clubname>
+                    <NAT_code>E6621932</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:17.11</Timerun1>
+                    <Timerun2>1:15.85</Timerun2>
+                    <Totaltime>2:32.96</Totaltime>
+                    <Racepoints>238.30</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>52</Rank>
+                <Order>61</Order>
+                <Bib>18</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Allen</Lastname>
+                    <Firstname>Madeline</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2005</Yearofbirth>
+                    <Clubname>DCWST</Clubname>
+                    <NAT_code>E6517437</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:19.32</Timerun1>
+                    <Timerun2>1:16.41</Timerun2>
+                    <Totaltime>2:35.73</Totaltime>
+                    <Racepoints>260.91</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>53</Rank>
+                <Order>50</Order>
+                <Bib>47</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Tasse</Lastname>
+                    <Firstname>Julia</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>PASEF</Clubname>
+                    <NAT_code>X7038704</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:18.93</Timerun1>
+                    <Timerun2>1:17.89</Timerun2>
+                    <Totaltime>2:36.82</Totaltime>
+                    <Racepoints>269.80</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>54</Rank>
+                <Order>63</Order>
+                <Bib>39</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Sanayi</Lastname>
+                    <Firstname>Nikki</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>LMRT</Clubname>
+                    <NAT_code>E7093959</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:21.43</Timerun1>
+                    <Timerun2>1:16.51</Timerun2>
+                    <Totaltime>2:37.94</Totaltime>
+                    <Racepoints>278.94</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>55</Rank>
+                <Order>57</Order>
+                <Bib>48</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Tasse</Lastname>
+                    <Firstname>Maya</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>PASEF</Clubname>
+                    <NAT_code>X7038680</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:20.21</Timerun1>
+                    <Timerun2>1:18.06</Timerun2>
+                    <Totaltime>2:38.27</Totaltime>
+                    <Racepoints>281.63</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>56</Rank>
+                <Order>70</Order>
+                <Bib>42</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>DeSapio</Lastname>
+                    <Firstname>Angelina</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>PASEF</Clubname>
+                    <NAT_code>E7042346</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:20.54</Timerun1>
+                    <Timerun2>1:19.13</Timerun2>
+                    <Totaltime>2:39.67</Totaltime>
+                    <Racepoints>293.06</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>57</Rank>
+                <Order>66</Order>
+                <Bib>55</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Mishra</Lastname>
+                    <Firstname>Anjali</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>SRRC</Clubname>
+                    <NAT_code>E7060207</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:22.83</Timerun1>
+                    <Timerun2>1:21.99</Timerun2>
+                    <Totaltime>2:44.82</Totaltime>
+                    <Racepoints>335.09</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>58</Rank>
+                <Order>58</Order>
+                <Bib>51</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Marussich</Lastname>
+                    <Firstname>Catherine</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>SMRT</Clubname>
+                    <NAT_code>E6998356</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:25.76</Timerun1>
+                    <Timerun2>1:22.80</Timerun2>
+                    <Totaltime>2:48.56</Totaltime>
+                    <Racepoints>365.61</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>59</Rank>
+                <Order>64</Order>
+                <Bib>24</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Rozentuler</Lastname>
+                    <Firstname>Maria</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>EMSC</Clubname>
+                    <NAT_code>E7124597</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:26.88</Timerun1>
+                    <Timerun2>1:23.06</Timerun2>
+                    <Totaltime>2:49.94</Totaltime>
+                    <Racepoints>376.87</Racepoints>
+                </AL_result>
+            </AL_ranked>
+            <AL_ranked Status="QLF">
+                <Rank>60</Rank>
+                <Order>67</Order>
+                <Bib>73</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Vanderver</Lastname>
+                    <Firstname>Aliane</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>WTSF</Clubname>
+                    <NAT_code>E6617228</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:38.57</Timerun1>
+                    <Timerun2>1:29.10</Timerun2>
+                    <Totaltime>3:07.67</Totaltime>
+                    <Racepoints>521.57</Racepoints>
+                </AL_result>
+            </AL_ranked>
+        </AL_classified>
+        <AL_notclassified>
+            <AL_notranked Status="DNS">
+                <Run>1</Run>
+                <Bib>7</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Manheim</Lastname>
+                    <Firstname>Milla</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E7234941</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>DNS</Timerun1>
+                    <Timerun2>DNS</Timerun2>
+                </AL_result>
+            </AL_notranked>
+            <AL_notranked Status="DNS">
+                <Run>1</Run>
+                <Bib>13</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Preston</Lastname>
+                    <Firstname>Penny</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6605227</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>DNS</Timerun1>
+                    <Timerun2>DNS</Timerun2>
+                </AL_result>
+            </AL_notranked>
+            <AL_notranked Status="DNS">
+                <Run>1</Run>
+                <Bib>38</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Rosenbloom</Lastname>
+                    <Firstname>Hanna</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>Lmrt</Clubname>
+                    <NAT_code>E6623353</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>DNS</Timerun1>
+                    <Timerun2>DNS</Timerun2>
+                </AL_result>
+            </AL_notranked>
+            <AL_notranked Status="DNS">
+                <Run>1</Run>
+                <Bib>63</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Contini</Lastname>
+                    <Firstname>Mariella</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2009</Yearofbirth>
+                    <Clubname>WPRC</Clubname>
+                    <NAT_code>E6717461</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>DNS</Timerun1>
+                    <Timerun2>DNS</Timerun2>
+                </AL_result>
+            </AL_notranked>
+            <AL_notranked Status="DNS">
+                <Run>1</Run>
+                <Bib>68</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Block</Lastname>
+                    <Firstname>Annabella</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>WTSEF</Clubname>
+                    <NAT_code>E6616062</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>DNS</Timerun1>
+                    <Timerun2>DNS</Timerun2>
+                </AL_result>
+            </AL_notranked>
+            <AL_notranked Status="DNF">
+                <Run>1</Run>
+                <Bib>4</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Dennis</Lastname>
+                    <Firstname>Haley</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E7036700</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>DNF</Timerun1>
+                    <Timerun2>1:14.21</Timerun2>
+                </AL_result>
+            </AL_notranked>
+            <AL_notranked Status="DNF">
+                <Run>1</Run>
+                <Bib>11</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Persing</Lastname>
+                    <Firstname>Emma</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6741488</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>DNF</Timerun1>
+                    <Timerun2>1:06.84</Timerun2>
+                </AL_result>
+            </AL_notranked>
+            <AL_notranked Status="DNF">
+                <Run>1</Run>
+                <Bib>30</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>O&apos;Brien</Lastname>
+                    <Firstname>Kasey</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>JFRT</Clubname>
+                    <NAT_code>E6830696</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>DNF</Timerun1>
+                    <Timerun2>1:07.13</Timerun2>
+                </AL_result>
+            </AL_notranked>
+            <AL_notranked Status="DNF">
+                <Run>1</Run>
+                <Bib>32</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Roberts</Lastname>
+                    <Firstname>Evelyn</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2008</Yearofbirth>
+                    <Clubname>JFRT</Clubname>
+                    <NAT_code>E6883758</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>DNF</Timerun1>
+                    <Timerun2>DNF</Timerun2>
+                </AL_result>
+            </AL_notranked>
+            <AL_notranked Status="DNF">
+                <Run>1</Run>
+                <Bib>50</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Cassidy</Lastname>
+                    <Firstname>Juliet</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>SMRT</Clubname>
+                    <NAT_code>E6763330</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>DNF</Timerun1>
+                    <Timerun2>1:20.78</Timerun2>
+                </AL_result>
+            </AL_notranked>
+            <AL_notranked Status="DNF">
+                <Run>1</Run>
+                <Bib>58</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Ryan</Lastname>
+                    <Firstname>Reese</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2009</Yearofbirth>
+                    <Clubname>SRRC</Clubname>
+                    <NAT_code>E6729993</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>DNF</Timerun1>
+                    <Timerun2>1:02.78</Timerun2>
+                </AL_result>
+            </AL_notranked>
+            <AL_notranked Status="DNF">
+                <Run>2</Run>
+                <Bib>10</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Persing</Lastname>
+                    <Firstname>Brooke</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2006</Yearofbirth>
+                    <Clubname>BMRA</Clubname>
+                    <NAT_code>E6741841</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:08.52</Timerun1>
+                    <Timerun2>DNF</Timerun2>
+                </AL_result>
+            </AL_notranked>
+            <AL_notranked Status="DNF">
+                <Run>2</Run>
+                <Bib>41</Bib>
+                <Competitor>
+                    <Fiscode />
+                    <Lastname>Beltran</Lastname>
+                    <Firstname>Micaela</Firstname>
+                    <Gender>L</Gender>
+                    <Nation />
+                    <Yearofbirth>2007</Yearofbirth>
+                    <Clubname>PASEF</Clubname>
+                    <NAT_code>E6732453</NAT_code>
+                    <XRef1><![CDATA[]]></XRef1>
+                    <XRef2><![CDATA[]]></XRef2>
+                </Competitor>
+                <AL_result>
+                    <Timerun1>1:12.43</Timerun1>
+                    <Timerun2>DNF</Timerun2>
+                </AL_result>
+            </AL_notranked>
+        </AL_notclassified>
+    </AL_race>
+</Fisresults>

@@ -120,6 +120,19 @@ Example:
 python Derby-PACup.pyw "Y:\Derby SW\PA Cup\2024" --classes U18,U21
 ```
 
+## Example data
+
+`xml-example/` holds the ten Vola XML race files from the 2024 season (five
+men's and five women's races, 2/2/2024 to 2/25/2024) so you can try the app.
+Select that folder in the GUI, or run:
+
+```
+python Derby-PACup.pyw xml-example
+```
+
+With a blank Age Up Year this resolves to 2023. Output files are written into
+`xml-example/`; the `.gitignore` keeps the generated CSVs and PDFs out of git.
+
 ## Notes
 
 - A corrupted, empty or encrypted XML file (e.g. one mangled by antivirus
